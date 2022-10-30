@@ -1,3 +1,3 @@
 # This is a Demo for Trellis
 
-Just testing stuff
+Just testing things
